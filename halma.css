@@ -5,3 +5,15 @@ body {
 h1 {text-align: center;
 
 }
+table{
+    width: 80%;
+    margin: 0 auto;
+    border: solid 1px;
+    background-color: #E9967A;
+    }
+    .kep1 {
+        border: solid 1px;
+    }
+    .kozepre {
+        text-align: center;
+    }
